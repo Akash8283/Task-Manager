@@ -17,7 +17,6 @@ It allows users to view, add, search, edit, and delete tasks.
 
 ## 📂 Folder Structure
 src/
-├── components/
 ├── pages/
 ├── services/
 ├── App.jsx
