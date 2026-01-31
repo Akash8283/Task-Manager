@@ -27,3 +27,9 @@ src/
 1. Clone the repository
 2. Install dependencies(npm install)
 3. Start the development server(npm run dev)
+
+Backend_URL = https://github.com/Akash8283/Task-Manager-Server
+
+🌐 Live Demo
+
+[View on Vercel](https://task-manager-amber-mu.vercel.app/)
